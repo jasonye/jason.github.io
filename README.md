@@ -1,4 +1,4 @@
-[toc]
+﻿[toc]
 
 
 # 算法
@@ -10,7 +10,7 @@
 # 语言：
 ## go
 * 基础
-* [go 逃逸分析](./go/go%20逃逸分析.md)
+* [go 逃逸分析](./go/逃逸分析.md)
 * [go gc问题](./go/go%20gc问题.md)
 * [go pprof](./go/go%20pprof优化.md)
 * 性能优化、

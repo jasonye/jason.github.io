@@ -1,4 +1,4 @@
-# 概述
+﻿# 概述
 重点介绍：aclocal、autoconf、automake、libtoolize configure、make 等GNU工具的使用、
 
 
