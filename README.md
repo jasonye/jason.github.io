@@ -11,9 +11,9 @@
 ## go
 * 基础
 * [go 逃逸分析](./go/逃逸分析.md)
-* [go gc问题](./go/go%20gc问题.md)
-* [go pprof](./go/go%20pprof优化.md)
-* 性能优化、
+* [go gc问题](./go/gc问题.md)
+* [go pprof](./go/pprof优化.md)
+* 性能优化
 
 
 # 数据库
