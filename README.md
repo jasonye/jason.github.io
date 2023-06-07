@@ -7,13 +7,14 @@
 
 
 
-# 语言：
+# 语言
+
 ## go
 * 基础
 * [go 逃逸分析](./go/逃逸分析.md)
 * [go gc问题](./go/gc问题.md)
 * [go pprof](./go/pprof优化.md)
-* 性能优化
+* [性能优化]()
 
 
 # 数据库
@@ -37,8 +38,11 @@
 ## ZK
 
 # 行业blog
+
 * [美团点评技术blog](https://tech.meituan.com/)
+
 * 优秀Git地址：
+
     * [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)
     * [Leetcode刷题](https://github.com/doocs/leetcode)
     * [Fucking算法](https://github.com/labuladong/fucking-algorithm)
@@ -47,7 +51,7 @@
     * Tecent仓库：https://github.com/orgs/Tencent/repositories
     * Alibaba仓库：https://github.com/orgs/alibaba/repositories?q=&type=&language=go&sort=stargazers
     * Baidu:https://github.com/orgs/baidu/repositories?q=&type=&language=go&sort=stargazers
-    * 
+    
 
 
 
